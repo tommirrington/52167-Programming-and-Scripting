@@ -5,3 +5,5 @@ Exercise submissions for the 52167 Programming and Scripting on the GMIT Higher 
 01_fibname.py - Exercise 1 and 2 submissions
 
 02_collatz.py - Exercise 3 submission
+
+03_euler5.py - Exwercise 4 submission
