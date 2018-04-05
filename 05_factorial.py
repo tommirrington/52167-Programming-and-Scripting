@@ -9,10 +9,12 @@ def fact(x):
         y = y * i
     return y
 
-#test function using input/output
+#test function 
 
-x = int(input("Please enter a positive integer: "))
+m = 5
+n = 7
+p = 10
 
-print(fact(x))
-
-
+print(fact(m))
+print(fact(n))
+print(fact(p))
