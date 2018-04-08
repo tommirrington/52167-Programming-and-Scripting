@@ -27,6 +27,6 @@ Exercise submissions for the 52167 Programming and Scripting on the GMIT Higher 
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Anaconda](https://www.anaconda.com/download/#macos)
-* [GMIT Course Material] (https://learnonline.gmit.ie/course/view.php?id=3940)
+* [GMIT Course Material](https://learnonline.gmit.ie/course/view.php?id=3940)
 * [Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)  
