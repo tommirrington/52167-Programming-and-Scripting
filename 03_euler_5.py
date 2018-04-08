@@ -7,7 +7,6 @@
 n = 20 
 y = 1 
 
-
  #reset y to 0 then iterate though range 1 to 20, if the sum of the modulus value for entire range is zero
  #then n is divisible by all values from 1 to 20, if not then increment n by 20 and test again
  #the soolution must be a factor of 20 so increment by 20 to speed up process
