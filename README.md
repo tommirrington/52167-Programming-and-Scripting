@@ -12,6 +12,8 @@ Exercise submissions for the 52167 Programming and Scripting on the GMIT Higher 
 
 1. 04_iris_format.py - Exercise 5 submission
 
+1. 05_factorial.py - Exercise 6 submission
+
 ## Instructions
 
 1. Python 3.6.3 installation required
