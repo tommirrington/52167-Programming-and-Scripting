@@ -11,3 +11,22 @@ Exercise submissions for the 52167 Programming and Scripting on the GMIT Higher 
 1. 03_euler_5.py - Exercise 4 submission
 
 1. 04_iris_format.py - Exercise 5 submission
+
+## Instructions
+
+1. Python 3.6.3 installation required
+
+1. Clone or download scripts from this repository
+
+1. Open Terminal window
+
+1. Run the following commend
+    *python filepath/filename.py*
+
+## References
+
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Anaconda](https://www.anaconda.com/download/#macos)
+* [GMIT Course Material] (https://learnonline.gmit.ie/course/view.php?id=3940)
+* [Python Tutorial](https://docs.python.org/3/tutorial/)
+* [Mastering MarkDown](https://guides.github.com/features/mastering-markdown/)  
