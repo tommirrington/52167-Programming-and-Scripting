@@ -31,3 +31,6 @@ print("The first letter", first, "is number", firstno)
 print("The last letter", last, "is number", lastno)
 print("Fibonacci number", x, "is", ans)
 
+#References
+#GMIT 52167 Programming and Scripting course material https://learnonline.gmit.ie/course/view.php?id=3940
+#The Python Tutorial https://docs.python.org/3/tutorial/
