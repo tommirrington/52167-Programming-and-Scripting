@@ -2,11 +2,9 @@
 #Exercise 6 submission
 
 #define the function factorial
-
+#set y to 1 or for loop will just multiply through 0
 def fact(x):
 
-#set y to 1 or for loop will just multiply through 0
-  
     y = 1 
 
 #for loop using a range of all values up to and including x
