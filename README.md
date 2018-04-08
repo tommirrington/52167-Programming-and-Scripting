@@ -22,7 +22,7 @@ Exercise submissions for the 52167 Programming and Scripting on the GMIT Higher 
 
 1. Open Terminal window
 
-1. Run the following commend
+1. Run the following command
     *python filepath/filename.py*
 
 ## References
